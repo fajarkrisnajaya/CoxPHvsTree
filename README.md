@@ -1,5 +1,5 @@
 
-# Cox Proportional Hazard + EDA
+# Cox Proportional Hazard vs Tree-based Algorithm for Survival Analysis
 
 This repository contains a Jupyter notebook for data preprocessing and analysis using the Cox Proportional Hazard model. The analysis is based on a dataset from the Mayo Clinic.
 
