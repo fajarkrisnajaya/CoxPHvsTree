@@ -4,7 +4,6 @@
 This repository contains a Jupyter notebook for data preprocessing and analysis using the Cox Proportional Hazard model. The analysis is based on a dataset from the Mayo Clinic.
 
 ## Notebook Contents:
-- [Cox Proportional Hazard + EDA]
   - [Table of Contents]
   - [Introduction]
   - [Data Preprocessing]
